@@ -1,6 +1,6 @@
-# terraform-gcp-1
+# terraform-gcp-tarea1
 
-Demo para crear un Cluster de Kubernetes en GCP usando el servicio de GKE.
+Demo para crear un Cluster de Kubernetes en GCP usando el servicio de GKE - Everis Tarea1
 
 ## Requerimientos
 
